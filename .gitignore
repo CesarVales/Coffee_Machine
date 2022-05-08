@@ -1,0 +1,110 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Topics/Named arguments/Determine the result/out/
+/Topics/Named arguments/Determine the result/out/production/classes/
+/Topics/Named arguments/Find the correct invocations/out/
+/Topics/Named arguments/Find the correct invocations/out/production/classes/
+/Topics/Named arguments/Invocations/out/
+/Topics/Named arguments/Invocations/out/production/classes/
+/Topics/Named arguments/Theory/out/
+/Topics/Named arguments/Theory/out/production/classes/
+/Topics/Named arguments/URL/out/
+/Topics/Named arguments/URL/out/production/classes/
+/Topics/Nested and inner classes/A bow and a cat/out/
+/Topics/Nested and inner classes/A bow and a cat/out/production/classes/
+/Topics/Nested and inner classes/Christmas tree/out/
+/Topics/Nested and inner classes/Christmas tree/out/production/classes/
+/Topics/Nested and inner classes/Clothing problem/out/
+/Topics/Nested and inner classes/Clothing problem/out/production/classes/
+/Topics/Nested and inner classes/Nested or inner/out/
+/Topics/Nested and inner classes/Nested or inner/out/production/classes/
+/Topics/Nested and inner classes/Pumpkin and candle/out/
+/Topics/Nested and inner classes/Pumpkin and candle/out/production/classes/
+/Topics/Nested and inner classes/Theory/out/
+/Topics/Nested and inner classes/Theory/out/production/classes/
+/Topics/Nested and inner classes/Why do we need inner classes/out/
+/Topics/Nested and inner classes/Why do we need inner classes/out/production/classes/
+/Topics/Nested and inner classes/Your vehicle/out/
+/Topics/Nested and inner classes/Your vehicle/out/production/classes/
+/Topics/Object declarations/Blocks in a box/out/
+/Topics/Object declarations/Blocks in a box/out/production/classes/
+/Topics/Object declarations/Board game basics  Game/out/
+/Topics/Object declarations/Board game basics  Game/out/production/classes/
+/Topics/Object declarations/Cell/out/
+/Topics/Object declarations/Cell/out/production/classes/
+/Topics/Object declarations/Keyword/out/
+/Topics/Object declarations/Keyword/out/production/classes/
+/Topics/Object declarations/Library/out/
+/Topics/Object declarations/Library/out/production/classes/
+/Topics/Object declarations/Manager/out/
+/Topics/Object declarations/Manager/out/production/classes/
+/Topics/Object declarations/Properties/out/
+/Topics/Object declarations/Properties/out/production/classes/
+/Topics/Object declarations/Singleton defined/out/
+/Topics/Object declarations/Singleton defined/out/production/classes/
+/Topics/Object declarations/Theory/out/
+/Topics/Object declarations/Theory/out/production/classes/
+/Topics/Overview of the basic program/The eternal truth/out/
+/Topics/Overview of the basic program/The eternal truth/out/production/classes/
+/Topics/Overview of the basic program/Theory/build/
+/Topics/Overview of the basic program/Theory/out/
+/Topics/Overview of the basic program/Theory/out/production/classes/
+/Topics/Overview of the basic program/Your name/out/
+/Topics/Overview of the basic program/Your name/out/production/classes/
+/Topics/Properties accessors/City population/out/
+/Topics/Properties accessors/City population/out/production/classes/
+/Topics/Properties accessors/Correct overriding/out/
+/Topics/Properties accessors/Correct overriding/out/production/classes/
+/Topics/Properties accessors/Field access/out/
+/Topics/Properties accessors/Field access/out/production/classes/
+/Topics/Properties accessors/Mutable state/out/
+/Topics/Properties accessors/Mutable state/out/production/classes/
+/Topics/Properties accessors/Property syntax/out/
+/Topics/Properties accessors/Property syntax/out/production/classes/
+/Topics/Properties accessors/Theory/out/
+/Topics/Properties accessors/Theory/out/production/classes/
+/Topics/Properties accessors/Weather comparison/out/
+/Topics/Properties accessors/Weather comparison/out/production/classes/
+/Topics/Standard input/A function for reading data/out/
+/Topics/Standard input/A function for reading data/out/production/classes/
+/Topics/Standard input/Four numbers/out/
+/Topics/Standard input/Four numbers/out/production/classes/
+/Topics/Standard input/Statements/out/
+/Topics/Standard input/Statements/out/production/classes/
+/Topics/Standard input/Successful reading/out/
+/Topics/Standard input/Successful reading/out/production/classes/
+/Topics/Standard input/Syntax issues/out/
+/Topics/Standard input/Syntax issues/out/production/classes/
+/Topics/Standard input/Theory/out/
+/Topics/Standard input/Theory/out/production/classes/
+/Topics/Standard output/Amount on the account/out/
+/Topics/Standard output/Amount on the account/out/production/classes/
+/Topics/Standard output/Correct the code/out/
+/Topics/Standard output/Correct the code/out/production/classes/
+/Topics/Standard output/Print a triangle/out/
+/Topics/Standard output/Print a triangle/out/production/classes/
+/Topics/Standard output/Print code/out/
+/Topics/Standard output/Print code/out/production/classes/
+/Topics/Standard output/Theory/out/
+/Topics/Standard output/Theory/out/production/classes/
+/Topics/Standard output/We need to learn Kotlin/out/
+/Topics/Standard output/We need to learn Kotlin/out/production/classes/
+/Topics/String templates/Arithmetic expression/out/
+/Topics/String templates/Arithmetic expression/out/production/classes/
+/Topics/String templates/Date and time formatting/out/
+/Topics/String templates/Date and time formatting/out/production/classes/
+/Topics/String templates/How to write string templates/out/
+/Topics/String templates/How to write string templates/out/production/classes/
+/Topics/String templates/Print two numbers on the same line/out/
+/Topics/String templates/Print two numbers on the same line/out/production/classes/
+/Topics/String templates/Repetitions and templates/out/
+/Topics/String templates/Repetitions and templates/out/production/classes/
+/Topics/String templates/Theory/out/
+/Topics/String templates/Theory/out/production/classes/
+/Topics/Type conversion/Lie detector/out/
+/Topics/Type conversion/Lie detector/out/production/classes/
+/Topics/Type conversion/Theory/out/
+/Topics/Type conversion/Theory/out/production/classes/
