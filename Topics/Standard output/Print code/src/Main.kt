@@ -1,3 +1,0 @@
-fun main() {
-    // only println are needed here...
-}
